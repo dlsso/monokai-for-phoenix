@@ -4,6 +4,9 @@ Changes background and other affected colors to fit with the dark version of net
 
 Find his project here: https://github.com/netatoo/phoenix-theme
 
+#### The Result
+![Monokai color scheme for Phoenix theme](/scheme.png)
+
 #### Instructions
 Simply add the file to /Packages/Color Scheme - Default/ in your sublime directory.
 
